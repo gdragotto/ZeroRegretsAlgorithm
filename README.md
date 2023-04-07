@@ -8,7 +8,7 @@ If you work with Zero Regrets, please consider citing our paper:
 * [The Zero Regrets Algorithm: Optimizing over Pure Nash Equilibria via Integer Programming](https://arxiv.org/abs/2111.06382):
 
   ```
-  @article{Dragotto_2021_ZERORegrets,
+  @article{ZERORegrets,
     title        = {{The Zero Regrets Algorithm: Optimizing over Pure Nash Equilibria via Integer Programming}},
     author       = {Dragotto, Gabriele and Scatamacchia, Rosario},
     year         = 2021,
